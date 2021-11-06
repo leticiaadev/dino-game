@@ -1,2 +1,2 @@
-# barbearia-alura
- Projeto criado para uma barbearia fictícia pelo curso Alura com HTML e CSS
+# dino-game
+ Criação do jogo do dinossauro como projeto para o curso DIO.
